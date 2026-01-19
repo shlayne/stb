@@ -1,3 +1,10 @@
+# Build
+build/
+
+# Git
+**.TMP
+
+# stb
 *.o
 *.obj
 *.exe
